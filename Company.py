@@ -1,6 +1,6 @@
 
 """
-File: company.py
+File: Company.py
 Name:
 
 Company employee simulation to learn how to use classes in Python
